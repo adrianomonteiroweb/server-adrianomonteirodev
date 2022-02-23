@@ -1,0 +1,36 @@
+{
+  "name": "server-adrianomonteirodev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrianomonteiroweb/server-adrianomonteirodev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrianomonteiroweb/server-adrianomonteirodev/issues"
+  },
+  "homepage": "https://github.com/adrianomonteiroweb/server-adrianomonteirodev#readme",
+  "dependencies": {
+    "body-parser": "^1.19.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mongodb": "^4.4.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.9.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.25.4",
+    "frisby": "^2.1.3",
+    "jest": "^27.5.1",
+    "mongodb-memory-server": "^8.4.0",
+    "nodemon": "^2.0.15"
+  }
+}
